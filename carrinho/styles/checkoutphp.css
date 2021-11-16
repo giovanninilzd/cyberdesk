@@ -1,0 +1,40 @@
+
+    body{
+        font-family:'Heebo',sans-serif;
+        background-color:rgb(24, 23, 23);
+    }
+    
+    *{
+        box-sizing:border-box;
+        margin:0;
+        padding:0;
+    }
+    #logo{
+        width:auto;
+        height:auto;
+        margin: 0 0 0 42.5%;
+        margin-bottom: -50px;
+        /*border: 1px solid green.*/
+    }
+    
+    #logo img{
+        width:270px;
+        height:auto;
+        padding:5px;
+        margin:auto;
+        margin-left:-40px;
+    }
+
+    #check img{
+        width:250px;
+        height: auto;
+        margin-left:530px;
+        margin-top:60px;
+    }
+
+    #check2 img{
+        width:50%;
+        margin:auto;
+        margin-left:300px;
+        margin-top:40px;
+    }
