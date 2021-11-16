@@ -12,7 +12,7 @@ footer{
     right: 0;
     background: rgb(24, 23, 23);
     height: auto;
-    width: 100vw;
+    width:98.7vw;
     font-family: "Open Sans";
     padding-top: 40px;
     color: #fff;
@@ -31,7 +31,7 @@ footer{
     line-height: 3rem;
 }
 .footer-content p{
-    max-width: 500px;
+    max-width: 1500px;
     margin: 10px auto;
     line-height: 28px;
     font-size: 14px;
@@ -61,7 +61,7 @@ footer{
 
 .footer-bottom{
     background: rgb(24, 23, 23);
-    width: 100vw;
+    width: 98.7vw;
     padding: 20px 0;
     text-align: center;
 }
@@ -78,4 +78,5 @@ footer{
 
 .rodapé{
     width: 200px;
+
 }
